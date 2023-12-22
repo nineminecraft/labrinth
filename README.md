@@ -1,5 +1,5 @@
-![labrinth banner](https://user-images.githubusercontent.com/12068027/100479891-d6bab300-30ac-11eb-8336-b4cad376a03d.png)
+## nineMinecraft's laboratory for its backend service & API!
 
-## Modrinth's laboratory for its backend service & API!
+Forked from [modrinth/labrinth](https://github.com/modrinth/labrinth).
 
-For contributing information, please see the labrinth section of the [Modrinth contributing guide](https://docs.modrinth.com/docs/details/contributing/#labrinth-backend-and-api). For documentation on the API itself, see the [API Spec](https://docs.modrinth.com/api-spec/).
+For documentation on the API itself, see the [API Spec](https://docs.modrinth.com/api-spec/).
